@@ -13,7 +13,7 @@ body {
 .item {
 	position:relative;
 	float:left;
-	background-color: rgb(171,183,183);
+	background-color: rgb(189,195,199);
 	padding: 5px;
 	border: 1px solid black;
 }
