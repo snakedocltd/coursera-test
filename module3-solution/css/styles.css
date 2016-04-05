@@ -1,0 +1,26 @@
+body {
+	font-size: 16px;
+	color: rgb(108,122,137);
+	background-color: rgb(228,241,254);
+	font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+	background-color: rgb(108,122,137);
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand h1 {
+	font-size: 1.5em;
+	color: rgb(228,241,254);
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#nav-list li {
+	color: rgb(228,241,254);
+}
+#info-text {
+	color: rgb(228,241,254);
+	background-color: rgb(108,122,137);
+	padding: 25px;
